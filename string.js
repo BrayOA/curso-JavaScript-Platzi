@@ -13,4 +13,4 @@ let string4 = string1 + ' ' + string2
 let frase = 'JavaScript es Extremadamente Genial'
 console.log(frase.length);
 console.log(frase.toLowerCase());
-console.log(frase.toUpperCase(0));
+console.log(frase.toUpperCase(0, 10));
